@@ -1,12 +1,18 @@
 # LeetCode Solutions
 
-Solutions to LeetCode problems solved in C++.
+C++ solutions to LeetCode problems.
 
-## Topics
+## Progress
+
+Easy: 13
+Medium: 2
+Hard: 0
+
+## Topics Covered
+
 - Arrays
 - Strings
 - Linked Lists
 - Trees
 - Dynamic Programming
-
-## Progress
+- Graphs
