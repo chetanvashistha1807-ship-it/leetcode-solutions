@@ -16,3 +16,5 @@ Hard: 0
 - Trees
 - Dynamic Programming
 - Graphs
+
+##Notes:- This Repository contains leetcode solutions according to how they should be pasted in leetcode instead of Complete Code.
