@@ -3,9 +3,9 @@
 C++ solutions to LeetCode problems.
 
 ## Progress
-
-Easy: 13
-Medium: 2
+Total: 24
+Easy: 20
+Medium: 4
 Hard: 0
 
 ## Topics Covered
