@@ -3,8 +3,8 @@
 C++ solutions to LeetCode problems.
 
 ## Progress
-Total: 78
-Easy: 51
+Total: 80
+Easy: 53
 Medium: 27
 Hard: 0
 
