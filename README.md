@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-C++ solutions to LeetCode problems.
+C++/Cpp solutions to LeetCode problems.
 
 ## Progress
 Total: 80
