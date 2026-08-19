@@ -38,6 +38,11 @@ public:
     }
 };
 
+
+//o(logn) -- TC
+//O(1) -- SC
+
+
 //Recursive implementation
 
 class Solution {
@@ -65,3 +70,6 @@ public:
         return binary(nums, target, low, high);
     }
 };
+
+//o(logn)--TC
+//o(logn)--SC
