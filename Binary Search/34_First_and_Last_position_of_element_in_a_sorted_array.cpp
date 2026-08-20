@@ -6,7 +6,7 @@ public:
         int low = 0;
         int mid;
         int lb = -1;
-        int ub = -1;
+        int ub = n;
 
         while (low <= high) {
             mid = (low + high) / 2;
