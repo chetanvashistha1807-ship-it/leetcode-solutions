@@ -35,3 +35,25 @@ int main(){
 
     return 0;
 }
+
+
+
+//Iterative Preordered traversal
+class Solution {
+public:
+    vector<int> preorderTraversal(TreeNode* root) {
+        vector<int> ans;
+        stack<TreeNode*>s;
+        s.push(root);
+        if(root==nullptr)return ans;
+        while(!s.empty()){
+            TreeNode* node = s.top();
+            s.pop();
+            ans.push_back(node->val);
+            if(node->right!=nullptr)s.push(node->right);
+            if(node->left!=nullptr)s.push(node->left);
+        }
+
+        return ans;
+    }
+};
